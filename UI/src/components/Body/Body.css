@@ -1,0 +1,13 @@
+.display-flex{
+    display: flex;
+}
+
+.text-display{
+    width: 50%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#text-1{
+    padding: 1rem 0 1rem;
+}
